@@ -1,3 +1,7 @@
+# 시연 영상
+https://github.com/bananashow/foodmate-frontend/assets/85798544/bc00cee2-15a4-45b8-af75-ea0a70cb49c3
+
+
 # Dir. Layout
 ```
 ├─api: API를 모아놓은 폴더입니다.
